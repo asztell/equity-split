@@ -232,6 +232,10 @@ a:focus {
 	background-color: #00b3fe;
 }
 
+#logo {
+	margin-top: -24px;
+}
+
 /* Services Wrap */
 #service {
 	margin-top: 100px;
