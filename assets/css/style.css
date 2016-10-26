@@ -226,6 +226,12 @@ a:focus {
 	margin: 0 auto;
 }
 
+#about {
+	padding-top: 20px;
+	padding-bottom: 5px;
+	background-color: #00b3fe;
+}
+
 /* Services Wrap */
 #service {
 	margin-top: 100px;
