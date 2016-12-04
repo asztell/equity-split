@@ -296,6 +296,11 @@ a:focus {
 	text-align:center;
 }
 
+#more-about > h4,
+#more-about > p {
+	color: white;
+}
+
 /* Testimonials Wrap */
 #twrap {
 	background: url(../img/t-back.jpg) no-repeat center top;
