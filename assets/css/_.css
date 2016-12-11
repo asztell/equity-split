@@ -205,7 +205,7 @@ a:focus {
 ################################################################# */
 
 #headerwrap {
-	background-color: #ccc;
+	background-color: #666;
 	min-height: 550px;
 	padding-top: 100px;
 	padding-bottom: 0px;
@@ -229,7 +229,7 @@ a:focus {
 #about {
 	padding-top: 20px;
 	padding-bottom: 5px;
-	background-color: #ccc;
+	background-color: #666;
 }
 
 #logo {
@@ -243,7 +243,7 @@ a:focus {
 }
 
 #service i {
-	color: #ccc;
+	color: #666;
 	font-size: 60px;
 	padding: 15px;
 }
@@ -291,7 +291,7 @@ a:focus {
 {
 	height:100%;
 	width:100%;
-	background-color:#ccc;
+	background-color:#666;
 	background-color:rgba(0,179,254,.9);
 	text-align:center;
 }
@@ -378,7 +378,7 @@ a:focus {
 /* General Tweaks */
 
 #blue {
-	background: #ccc;
+	background: #666;
 	margin-top: 60px;
 	margin-bottom: 60px;
 	padding-top: 25px;
@@ -391,7 +391,7 @@ a:focus {
 }
 
 .ctitle {
-	color: #ccc;
+	color: #666;
 	font-weight: 700;
 	margin-bottom: 15px;
 }
@@ -411,7 +411,7 @@ csmall2 {
 }
 
 .badge-theme {
-	background: #ccc;
+	background: #666;
 }
 
 /* Contact Page */
