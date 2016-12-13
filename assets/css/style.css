@@ -46,6 +46,15 @@ p {
 	margin-top: 10px; 
 }
 
+ul, ol {
+	margin-left: 25px;
+}
+
+ul > li {
+	margin: 5px 0px;
+	list-style-type: circle;
+}
+
 img {
 	height: auto;
 	max-width: 100%;
@@ -76,6 +85,10 @@ a:focus {
 	color: #fff;
 	text-shadow:none;
 	background:#2B2E31;
+}
+
+.list-group-item {
+	border: none;
 }
 
 .centered {
