@@ -261,6 +261,17 @@ a:focus {
 	padding: 15px;
 }
 
+.twitter-share-button .btn {
+	height: 34px;
+	/*width: ;*/
+}
+
+.reddit-share-button img {
+	height: 28px;
+	/*width: ;*/
+	margin-top: -19.5px;
+	margin-right: 3px;
+}
 /* Portfolio Wrap */
 #portfoliowrap {
 	padding-top: 60px;
