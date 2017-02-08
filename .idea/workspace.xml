@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c092a073-382e-469f-9ce3-e0c52905ed88" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog 4 Jack of all trades or specialist.html" afterPath="$PROJECT_DIR$/blog 4 Jack of all trades or specialist.html" />
     </list>
     <ignored path="SOLID.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -578,7 +577,7 @@
       <workItem from="1482135734520" duration="394000" />
       <workItem from="1482199333114" duration="9435000" />
       <workItem from="1482792895033" duration="1808000" />
-      <workItem from="1486250742303" duration="5794000" />
+      <workItem from="1486250742303" duration="5925000" />
     </task>
     <task id="LOCAL-00001" summary="new blog pages">
       <created>1486520715910</created>
@@ -608,11 +607,18 @@
       <option name="project" value="LOCAL" />
       <updated>1486521179163</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="new blog pages">
+      <created>1486521286850</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1486521286850</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31216000" />
+    <option name="totallyTimeSpent" value="31347000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
